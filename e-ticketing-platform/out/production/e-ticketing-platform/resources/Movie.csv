@@ -1,0 +1,4 @@
+id,name,nrOfTickets,ticketPrice,date,country,city,address,genre,director,yearOfProduction
+17,Poor Things,150,30,03/04/2024 17:00,Romania,Bucuresti,Cinema City,Comedie,Yorgos Lanthimos,2024
+18,Planeta Maimutelor:Noul Regat,100,25,24/05/2024 20:00,Romania,Pitesti,Cinema Trivale,Actiune,Wes Ball,202419,Furious:A Mad Max Saga,200,31,06/06/2024 19:00,Romania,Cluj,CineMagia,Adventure,George Miller,2024
+19,Sonic the Hedgehog 3,170,26,09/11/2024 19:30,Romania,Arad,Cinema City,Comedy,Jeff Fowler,2024

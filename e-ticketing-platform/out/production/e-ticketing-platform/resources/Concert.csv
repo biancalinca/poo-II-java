@@ -1,0 +1,7 @@
+id,name,nrOfTickets,ticketPrice,date,country,city,address,genre,artist
+6,Solomonescu,300,70,20/03/2024 23:00,Romania,Bucuresti,Club Quantic,Trap,Solomon
+7,Corey Taylor Band,500,203,31/05/2024 22:00,Romania,Bucuresti,Arenele Romane,Metal,Corey Taylor
+8,Unforgettable Festival,600,592,13/09/2024 21:30,Romania,Bucuresti,Romexpo,Festival,Lara Fabian
+9,Judas Priest,400,295,20/07/2024 22:00,Romania,Bucuresti,Romexpo,Festival,Judas Priest
+10,Concert Vita de Vie Acustic,200,106,20/08/2024 22:00,Romania,Bucuresti,Hard Rock Cafe,Vita de Vie
+

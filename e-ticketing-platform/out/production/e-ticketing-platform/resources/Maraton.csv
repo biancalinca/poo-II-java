@@ -1,0 +1,7 @@
+id,name,nrOfTickets,ticketPrice,date,country,city,address,fundraisingGoal,cause,numberOfKilometers
+11,Color Run,400,35,18/07/2024 15:00,Romania,Bucuresti,Parcul Herastrau,30000,Copii cu cancer,20
+12,Maraton Rosia Montana,275,40,20/09/2024 10:00,Romania,Timisoara,Parcul Alexandrescu,200000,Spitale,25
+13,Running Races,340,50,13/05/2024 11:45,Romania,Cluj,Parcul tineretului,30000,Copii nevoiasi,14
+14,Baneasa Forest Run,200,40,19/04/2024 14:00,Romania,Bucuresti,Padurea Baneasa,245000,Ajutor pentru padure,20
+15,Maraton DHL,300,50,28/07/2024 14:00,Romania,Brasov,Cheile Gradistei,30000,Batrani singuri,14
+20,Run,100,100,10/10/2024 10:00,Romania,Pitesti,Lunca,3000,Copii,13

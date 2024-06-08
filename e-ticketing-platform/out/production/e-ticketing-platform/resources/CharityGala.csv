@@ -1,0 +1,7 @@
+id,name,nrOfTickets,ticketPrice,date,country,city,address,fundraisingGoal,cause,dresscode,auctionItems
+1,Mergem Inainte,130,80,13/09/2024 18:30,Romania,Cluj,Sala Palatului,30000,Apa potabila sate defavorizate,Negru si alb,Picturi
+2,Zambet de copil,300,100,20/04/2024 19:30,Romania,Bucuresti,Castelul de Piatra,3450000,Copii cu dizabilitati,Roz si rosu,Sculpturi
+3,Ghetutele Bucuriei,250,100,05/10/2024 20:00,Romania,Brasov,Palatul Copiilor,23000,Copii nevoiasi,Albastru,Desene in carbune
+4,Ajutam impreuna,280,260,08/09/2024 21:00,Romania,Pitesti,Magic Events,35000,Spitalele de arsi,Negru,Picturi
+5,Mana cu mana,300,80,06/05/2024 18:45,Romania,Timisoara,Ramada,40000,Familii defavorizate,Maro,Sculpturi
+21,Salvati Copiii,200,300,12/12/2024 10:40,Romania,Pitesti,Ramada,2000,copii sarmani,albastru,picturi
