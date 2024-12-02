@@ -1,15 +1,15 @@
-# Platforma de e-ticketing 
+📄 Platforma de e-Ticketing
+Un proiect Java pentru gestionarea unei platforme de vânzare online a biletelor la evenimente, ce include obiecte cheie, colecții de date și acțiuni relevante.
 
-### Definiri
-
-1.  Definirea a 10 actiuni/queries care pot fi facute in sistem 
- 
-
-###  Implementari
-
-1. Clase simple (**8 tipuri de obiecte**) ( _POJO`S_) cu atribute private/protected si acces la metode prin setteri si getteri
-_Client, Event, Ticket, Location, HyeTier, Concert
-2. Cel putin **2 colectii** diferite capabile sa manipuleze obiectele definite mai sus (List, Set, Map, etc) dintre care cel putin una trebuie sa fie sortata 
-
-*  TreeSet (new HypeTierComparator()) -> sortat dupa tipul : _megahype, hype, cool, nice_
-*  ArrayLists
+🚀 Structură Proiect
+1. Acțiuni/Queries în Sistem (10 Definiri)
+Adăugarea unui Client: Adaugă un client nou în baza de date.
+Crearea unui Eveniment: Introduce un eveniment nou, inclusiv detalii despre locație și tip.
+Achiziționarea unui Bilet: Permite unui client să cumpere un bilet pentru un eveniment.
+Listarea Evenimentelor Disponibile: Afișează toate evenimentele curente și viitoare.
+Sortarea Evenimentelor după Popularitate: Sortează evenimentele în funcție de tipul de hype.
+Căutarea Evenimentelor după Tip: Filtrează evenimentele în funcție de categorie (concert, teatru, etc.).
+Verificarea Disponibilității Biletelor: Arată numărul de bilete disponibile pentru un eveniment.
+Anularea unei Rezervări: Permite unui client să anuleze o rezervare.
+Afișarea Clienților Fidele: Listează clienții care au cumpărat cele mai multe bilete.
+Gestionarea Categoriilor VIP: Administrează clienții care au acces la locuri HypeTier.
